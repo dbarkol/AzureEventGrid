@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewEmployeeApp", "NewEmployeeApp\NewEmployeeApp.csproj", "{F363B6B4-41E8-40D5-998C-307B5490083F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeRecords", "EmployeeRecords\EmployeeRecords.csproj", "{27791473-6AAF-45F6-9377-DCED0CB6D4BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F363B6B4-41E8-40D5-998C-307B5490083F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F363B6B4-41E8-40D5-998C-307B5490083F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F363B6B4-41E8-40D5-998C-307B5490083F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F363B6B4-41E8-40D5-998C-307B5490083F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27791473-6AAF-45F6-9377-DCED0CB6D4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27791473-6AAF-45F6-9377-DCED0CB6D4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27791473-6AAF-45F6-9377-DCED0CB6D4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27791473-6AAF-45F6-9377-DCED0CB6D4BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B800A88-73D6-4D29-92F4-5058C22AF065}
+	EndGlobalSection
+EndGlobal
